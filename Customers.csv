@@ -1,0 +1,21 @@
+id,name,email,year,country,state
+1,John,john@gmail.com,2018,US,NY
+2,Abby,abby@gmail.com,2017,US,NY
+2,Abby,abby@gmail.com,2017,US,NY
+3,Steve,steve@gmail.com,2019,US,NJ
+4,George,george@gmail.com,2017,US,N/A
+5,Mary,mary@gmail.com,2018,US,PA
+6,Emma,emma@gmail.com,2018,Canada,N/A
+7,Chris,chris@gmail.com,2019,US,Not Applicable
+8,Sophie,sophie@gmail.com,2019,US,RI
+9,Mia,mia@gmail.com,2002,US,NY
+10,William,,,US,N/A
+11,Isabella,isabella@gmail.com,2020,Canada,N/A
+12,James,james@gmail.com,2020,US,PA
+13,Brad,brad@gmail.com,2020,US,NJ
+14,Nina,nina@gmail.com,2019,US,Not Applicable
+15,Janet,janet@gmail.com,2017,US,NJ
+16,Dylan,dylan@gmail.com,2018,US,PA
+17,Anna,anna@gmail.com,2019,US,NY
+18,Zach,zech@gmail.com,2019,US,NY
+19,Hope,hope@gmail.com,2020,US,CT
